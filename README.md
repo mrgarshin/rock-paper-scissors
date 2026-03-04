@@ -1,1 +1,1 @@
-# rock-paper-scissors
+https://mrgarshin.github.io/rock-paper-scissors/
